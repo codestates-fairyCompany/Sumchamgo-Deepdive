@@ -94,7 +94,7 @@ console.log(Object.getOwnPropertyDescriptor(str, 3));
 
 프로퍼티 값의 변경 가능 여부
 
-false 값인 경우 \[\[Value\]\] 의 값을 변경할 수 없는 읽기 전용 프로퍼티가 된다
+false 값인 경우 \[\[Value\]\] 의 값을 변경할 수 없는 읽기 전용 프로퍼티가 된다.
 
 3\. \[\[Enumerable\]\]
 
