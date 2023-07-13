@@ -1,5 +1,3 @@
-[##_Image|kage@bRcUHR/btsnsdWlneG/TOXMv8CaOM7wcWGlS6WJKK/img.png|CDM|1.3|{"originWidth":1080,"originHeight":1080,"style":"alignCenter","filename":"Javascript-001 (1).png"}_##]
-
 ### 내부 슬롯과 내부 메서드
 
 내부 슬롯과 내부 메서드는 자바스크립트 엔진의 구현 알고리즘을 설명하기 위해 ECMAScript 사양에서 사용하는 의사 프로퍼티와 의사 메서드다.
