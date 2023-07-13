@@ -170,7 +170,7 @@ descriptor = Object.getOwnPropertyDescriptor(person,'fullName');
 접근자 프로퍼티와 데이터 프로퍼티를 구별하는 방법
 
 ```
-// 일반 객체의 __proto__ 는 접근자 프로퍼티이다
+// 일반 객체의 __proto__ 는 접근자 프로퍼티이다.
 Object.getOwnPropertyDescriptor(Object.prototype,'__proto__');
 // {enumerable: false, configurable: true, get: ƒ, set: ƒ}
 
